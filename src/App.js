@@ -9,7 +9,7 @@ class App extends Component {
           <Grid>
             <Navbar.Header>
               <Navbar.Brand>
-                <a href="/">React App</a>
+                <a href="/">Remos Mauricio Pujadas</a>
               </Navbar.Brand>
               <Navbar.Toggle />
             </Navbar.Header>
@@ -17,14 +17,14 @@ class App extends Component {
         </Navbar>
         <Jumbotron>
           <Grid>
-            <h1>Welcome to React</h1>
+            <h1>Bienvenidos a los remos de Mauricio Pujadas</h1>
             <p>
               <Button
                 bsStyle="success"
                 bsSize="large"
                 href="http://react-bootstrap.github.io/components.html"
                 target="_blank">
-                tu vieja
+                Apreta aca vieja
               </Button>
             </p>
           </Grid>
